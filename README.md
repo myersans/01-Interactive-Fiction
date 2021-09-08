@@ -4,6 +4,8 @@ A simple interactive story that explores a strange destert landscape. Mystery aw
 ## Implementation
 Created using Python 3.9
 ## References
-
+None
 ## Future Development
+None
 ## Created by
+Andy Myers 
